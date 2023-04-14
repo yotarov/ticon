@@ -1,0 +1,91 @@
+id,region,county,municipality,dot,location,highway,area,ite,store_size,non_diesel,diesel,total_vfp,car_wash,half_mile_gas,status,am_in,am_out,am_tot,class_4_6,class_3_6,class_4_7,trip_in,trip_out,trip_total
+NC-301,NC,Waushara,Coloma,NC - BP - Coloma - STH 21 west of I-39,Freeway (Non-Tourist),STH 21 West of IH 39,Rural,960,"5,5",10,5,15,No,0,std,35,33,68,2,2,2,678,687,1365
+NC-302,NC,Langlade,Antigo,NC - Antigo #451 - US 45 at STH 64 (455 St Hwy 64),Non-Freeway (Non-Tourist),STH 64,Urban,960,6,16,0,16,Yes,3,std,125,125,250,3,3,2,1863,1876,3739
+NC-303,NC,Vilas,Arbor Vitae,NC - BP - Arbor Vitae - US 51,Non-Freeway (Tourist),US 51,Urban,960,"8,9",16,3,19,Yes,0,std,55,42,97,3,3,3,780,687,1467
+NC-304,NC,Vilas,Eagle River,NC - Eagle River #131 (201 West Wall St),Non-Freeway (Tourist),West Wall St,Rural,960,"7,5",16,0,16,Yes,3,std,163,153,316,3,3,3,2591,2596,5187
+NC-305,NC,Price,Fifield,NC - Marathon- Fifield - STH 70,Non-Freeway (Non-Tourist),STH 70,Rural,945,"2,6",8,2,10,No,0,std,15,15,30,1,1,1,270,257,527
+NC-306,NC,Lincoln,Merrill,NC - Merrill #241 (300 S Pine Ridge Ave),Freeway (Tourist),IH 51,Urban,960,5,20,2,22,No,1,std,109,105,214,2,2,2,1956,1845,3801
+NC-307,NC,Oneida,Minocqua,NC-Krist Food Mart/Citgo - Minocqua - US 51 (208 Oneida St),Non-Freeway (Tourist),US 51,Rural,960,"3,8",12,2,14,No,1,std,16,14,30,1,2,1,261,257,518
+NC-308,NC,Oneida,Minocqua,NC - Minocqua #159 - US 51 at STH 70 (8690 Hwy 51 N),Non-Freeway (Tourist),US 51,Urban,960,"7,5",16,0,16,Yes,0,std,161,150,311,3,3,3,2500,2384,4884
+NC-309,NC,Waushara,Plainfield,NC - BP - Plainfield - STH 73 off I-39,Freeway (Non-Tourist),STH 73 off IH 39,Rural,945,"1,9",6,3,9,No,1,std,32,36,68,1,1,1,644,628,1272
+NC-310,NC,Marathon,Wausau,NC - Wausau BP - Bus 51,Freeway (Non-Tourist),IH 39,Urban,960,"3,5",12,0,12,No,0,std,33,31,64,1,2,1,591,602,1193
+NC-311,NC,Marathon,Stratford,"NC - Cenex - Stratford, STH 97",Non-Freeway (Non-Tourist),STH 97,Rural,960,"4,5",8,2,10,No,2,std,75,69,144,2,2,2,960,929,1889
+NC-312,NC,Oneida,Rhinelander,NC - Shell - Rhinelander - STH 47 at CTH K,Non-Freeway (Non-Tourist),STH 47 at CHT K,Urban,960,"5,3",8,2,10,No,0,std,86,79,165,2,2,2,1347,1345,2692
+NC-313,NC,Waupaca,Waupaca,NC - Waupaca #888 (106 County Rd QQ),Freeway (Tourist),STH 54 & CTH QQ,Urban,960,"7,7",20,3,23,Yes,3,std,146,138,284,3,3,3,2328,2332,4660
+NC-314,NC,Price,Phillips,NC - Phillips #1067 (1424 N Lake Ave ),Non-Freeway (Tourist),STH 13,Rural,960,"5,8",20,4,24,Yes,0,std,92,87,179,2,2,2,1531,1516,3047
+NE-201,NE,Brown,Ashwaubenon NE - Ashwaubenon #125 (940 Waube Ln),,Freeway (Non-Tourist),IH 41,Urban,960,"7,4",16,0,16,No,1,std,164,154,318,3,3,3,1867,1877,3744
+NE-202,NE,Brown,De Pere,De Pere - Kwik Trip #127 (746 Main Ave),Non-Freeway (Non-Tourist),Main Ave,Urban,945,"4,1",8,0,8,No,1,std,73,70,143,2,2,2,920,924,1844
+NE-203,NE,Brown,Denmark,NE - Denmark #1015 (111 Bohemia Dr),Freeway (Tourist),STH 96 E of IH 43,Rural,960,7,14,4,18,Yes,1,std,182,172,354,3,3,3,2088,2107,4195
+NE-204,NE,Outagamie,Appleton,NE - Appleton #678 (3232 S Oneida St),Freeway (Non-Tourist),IH 441,Urban,960,"4,3",12,0,12,No,1,std,88,83,171,2,2,2,1234,1217,2451
+NE-205,NE,Winnebago,Larsen,NE- Larsen #628 (5600 County Rd II),Freeway (Non-Tourist),IH 45,Rural,960,"5,5",10,3,13,No,0,std,102,98,200,2,2,2,1517,1399,2916
+NE-206,NE,Winnebago,Neenah,"NE-Speedway, Neenah; IH 41 & CTH II",Freeway (Non-Tourist),IH 41,Urban,960,"5,1",16,4,20,No,0,std,65,64,129,2,2,2,968,967,1935
+NE-207,NE,Dodge,Lomira,"NE - Exxon, Lomira, I-41 & WIS 67/CTH H",Freeway (Non-Tourist),IH 41,Rural,945,"2,9",8,5,13,No,2,std,36,35,71,1,1,1,,,
+NE-208,NE,Manitowoc,Manitowoc,"NE- Manitowoc KwikTrip#611 (formerly Tobaco Outlet); 2102
+Washington St (US151)",Non-Freeway (Non-Tourist),US 151,Urban,945,"2,5",8,0,8,No,1,std,37,32,69,1,1,1,573,577,1150
+NE-209,NE,Oconto,Mountain,NE- R-Store/BP Mountain,Non-Freeway (Tourist),STH 32 & CTH W,Rural,945,"3,6",6,2,8,No,0,std,21,23,44,1,2,1,400,417,817
+NE-210,NE,Door,Sturgeon Bay,NE-BP STH 57 South Sturgeon Bay (7513 42 State Hwy),Non-Freeway (Tourist),STH 57,Rural,960,"2,9",8,3,11,No,0,std,45,44,89,1,1,1,789,801,1590
+NE-211,NE,Calumet,New Holstein,NE - New Holstein #644 (1517 Wisconsin Ave),Non-Freeway (Non-Tourist),STH 57/32,Rural,960,"5,6",16,2,18,yes,0,std,75,92,167,2,2,2,1209,1317,2526
+NE-212,NE,Winnebago,Winneconne,NE- Winneconne #612; WIS 116 (915 E Main St),Non-Freeway (Non-Tourist),STH 116,Rural,960,"4,5",16,0,16,No,0,std,98,76,174,2,2,2,1475,1326,2801
+NE-213,NE,Sheboygan,Sheboygan,NE - Sheboygan #139 (7002 Sauk Trail Rd),Freeway (Non-Tourist),IH 43 & Sauk Trail,Rural,960,5,8,5,13,No,1,std,100,101,201,2,2,2,1843,1845,3688
+NE-214,NE,Oconto,Abrams,"NE -CTH J, north of Green Bay (Brookside)",Freeway (Tourist),US 41,Rural,960,"5,5",12,2,14,No,0,std,29,32,61,2,2,2,577,580,1157
+NE-215,NE,Winnebago,Oshkosh,"NE-BP Pantry Oshkosh (3700 Jackson Street, Oshkosh)",Non-Freeway (Non-Tourist),Jackson Street,Urban,960,"5,8",8,3,11,Yes,1,std,41,37,78,2,2,2,739,732,1471
+NE-216,NE,Oconto,Lena,NE - Lena #587 (5908 Duame Rd),Freeway (Tourist),US 141 & STH 22,Rural,960,"6,5",10,4,14,No,0,std,101,111,212,3,3,2,1863,1879,3742
+NE-217,NE,Sheboygan,Cedar Grove,NE - Citgo; Cedar Grove; IH 43 & WIS 32,Freeway (Non-Tourist),IH 43 & STH 32,Rural,960,8,8,2,10,No,0,std,30,28,58,3,3,3,575,573,1148
+NW-401,NW,Jackson,Black River Falls NW - Black River Falls #648 (751 State Hwy 54),,Freeway (Non-Tourist),STH 54,Rural,960,"9,5",14,5,19,No,2,std,172,158,330,3,3,3,2633,2529,5162
+NW-402,NW,Ashland,Ashland,NW - Ashland #110 (1814 Lakeshore Dr W),Non-Freeway (Tourist),US 2 & STH 112,Urban,960,"9,9",20,2,22,Yes,2,std,113,116,229,3,3,3,1877,1868,3745
+NW-403,NW,Sawyer,Hayward,"NW - Mobil, Hayward, 15771 USH 63",Non-Freeway (Tourist),US 63,Rural,945,3,8,0,8,Yes,5,std,16,17,33,1,2,1,481,,481
+NW-404,NW,Chippewa,Bloomer,"NW - Bloomer, STH 40 & 19th Ave., Holiday Gas",Freeway (Non-Tourist),STH 40,Rural,960,3,12,0,12,No,1,std,20,22,42,1,2,1,500,499,999
+NW-405,NW,Eau Claire,Eau Claire,"NW - Eau Claire Holiday Station (5511 WI-93, Eau Claire WI)",Freeway (Non-Tourist),STH-93,Urban,960,"3,4",10,0,10,No,1,std,45,45,90,1,2,1,863,861,1724
+NW-406,NW,Sawyer,Hayward,"NW - Hayward #327, USH 63 & STH 27 (15831 US Hwy 63)",Non-Freeway (Tourist),US 63 & STH 27,Rural,960,4,16,3,19,No,5,std,137,105,242,2,2,2,2099,1821,3920
+NW-407,NW,Douglas,Superior,NW - Superior #203 (1419 Banks Ave),Non-Freeway (Non-Tourist),US 2,Urban,960,"4,5",20,2,22,Yes,1,std,141,137,278,2,2,2,1841,1837,3678
+NW-408,NW,Washburn,Spooner,"NW - Spooner #329, USH 63 & STH 70 (201 W Maple St)",Non-Freeway (Tourist),STH 70,Rural,960,5,16,0,16,No,1,std,102,88,190,2,2,2,1681,1504,3185
+NW-409,NW,Barron,Chetek,NW -Chetek #602 (324 2nd St),Non-Freeway (Tourist),2nd & Mill St,Rural,960,"5,9",16,0,16,No,2,std,118,116,234,2,2,2,1835,1843,3678
+NW-410,NW,Barron,Rice Lake,NW - Rice Lake #476 (2851 Decker Dr),Freeway (Tourist),US 53,Urban,960,"6,9",12,3,15,Yes,0,std,105,112,217,3,3,2,1964,1975,3939
+NW-411,NW,St Croix,Somerset,"NW - Somerset #1074, STH 35 & Church Hill Road (726 Highway 35 )",Non-Freeway (Non-Tourist),STH 35 & 64,Rural,960,"5,1",20,2,22,Yes,1,std,126,121,247,2,2,2,1773,1766,3539
+NW-412,NW,St Croix,Hudson,NW - N. Hudson #935 (740 6th St N ),Non-Freeway (Tourist),STH 35,Urban,960,"7,2",20,0,20,Yes,1,std,88,82,170,3,3,3,1311,1307,2618
+SE-101,SE,Washington,Allenton,"SE - Mobil Allenton, I-41 & WIS 33",Freeway (Non-Tourist),IH 41 & STH 33,Rural,960,"4,835",10,3,13,Yes,1,std,31,32,63,2,2,2,498,497,995
+SE-102,SE,Walworth,Delavan,"SE - Delavan #1046, WIS 50 & Wright (408 S Wright Street)",Freeway (Tourist),STH 50,Urban,960,8,20,0,20,Yes,2,std,136,124,260,3,3,3,1986,1829,3815
+SE-103,SE,Washington,Germantown,"SE - Speedway Germantown, I-41 & CTH Q",Freeway (Non-Tourist),IH 41 & CTH Q,Urban,960,"3,4",12,0,12,No,2,std,82,81,163,1,2,1,1301,1263,2564
+SE-104,SE,Walworth,Lake Geneva,"SE - Mobil Lake Geneva, WIS 50 & Edwards",Freeway (Tourist),STH 50,Urban,960,"4,1",8,2,10,No,1,std,122,31,153,2,2,2,1968,749,2717
+SE-105,SE,Walworth,Lake Geneva,SE - Lake Geneva #219 (710 Williams St),Non-Freeway (Tourist),Williams St,Urban,960,"6,5",12,0,12,Yes,1,std,182,135,317,3,3,2,2748,2056,4804
+SE-106,SE,Walworth,Delavan,"SE - Fleet Farm Delavan, I-43 & WIS 50",Freeway (Tourist),IH 43 & STH 50,Urban,960,"5,4",16,0,16,Yes,2,rem,11,12,23,2,2,2,344,336,680
+SE-107,SE,Washington,Erin,"SE - BP Erin, WIS 83 & WIS 167",Non-Freeway (Non-Tourist),STH 83 & STH 167,Rural,960,"3,6",8,2,10,No,0,std,70,68,138,1,2,1,978,985,1963
+SE-108,SE,Waukesha,Muskego,SE - Muskego #664 (S79W18884 Janesville Rd),Non-Freeway (Non-Tourist),Janesville Rd,Urban,960,5,16,0,16,No,0,std,208,123,331,2,2,2,2333,1882,4215
+SE-109,SE,Waukesha,New Berlin,"SE - Speedway, New Berlin, I-43 & Moorland",Freeway (Non-Tourist),IH 43,Urban,945,"2,9",12,0,12,No,0,std,76,76,152,1,1,1,1058,1059,2117
+SE-110,SE,Milwaukee,Oak Creek,SE - BP Oak Creek CTH BB & CTH V,Freeway (Non-Tourist),IH 41,Urban,945,"2,2",12,0,12,No,1,std,38,41,79,1,1,1,583,586,1169
+SE-111,SE,Kenosha,Kenosha,"SE - Mobil Kenosha, I-94 & WIS 50 SE Quad",Freeway (Non-Tourist),IH 41/94 & STH 50,Urban,945,"2,85",12,0,12,No,5,std,22,23,45,1,1,1,420,415,835
+SE-112,SE,Racine,Racine,SE - Speedway Racine WIS 20 & Emmertson,Non-Freeway (Non-Tourist),STH 20,Urban,945,"2,9",12,0,12,No,2,std,73,108,181,1,1,1,1207,1687,2894
+SE-113,SE,Kenosha,Kenosha,"SE - Speedway Kenosha, WIS 50 & 60th",Non-Freeway (Non-Tourist),STH 50 & 60th,Urban,960,"4,2",10,0,10,No,1,std,94,94,188,2,2,2,1747,1793,3540
+SE-114,SE,Waukesha,Waukesha,"SE - Speedway Waukesha, WIS 59 & Sunset",Non-Freeway (Non-Tourist),STH 59,Urban,960,"4,4",16,0,16,Yes,0,std,81,68,149,2,2,2,899,900,1799
+SE-115,SE,Ozaukee,Saukville,SE - Saukville #879 (750 E Green Bay Ave),Freeway (Non-Tourist),IH 43 & STH 33,Rural,960,"5,6",20,0,20,Yes,1,std,168,175,343,2,2,2,2627,2637,5264
+SE-116,SE,Waukesha,Waukesha,"SE - Pewaukee/Waukesha #396, CTH F & CTH M ( Redford Blvd )",Non-Freeway (Non-Tourist),CTH F & CTH M,Urban,960,"7,4",23,6,29,Yes,0,std,238,237,475,3,3,3,3103,3109,6212
+SE-117,SE,Kenosha,"Pleasant
+Prairie",SE - Pleasant Prairie #296 (10215 120th Ave),Freeway (Non-Tourist),IH 94 & STH 165,Urban,960,"6,6",24,0,24,Yes,1,std,142,138,280,3,3,2,2149,2138,4287
+SE-118,SE,Walworth,Genoa City,"SE - Mobil Genoa City, US 12 & 125th",Non-Freeway (Non-Tourist),US 12,Rural,960,"12,1",12,3,15,No,1,rem,94,102,196,3,3,3,1914,1958,3872
+SE-119,SE,Waukesha,Delafield,SE - Delafield #972 (2694 Sun Valley Dr),Freeway (Non-Tourist),STH 83,Urban,960,8,16,0,16,No,0,add,163,145,308,3,3,3,2454,2270,4724
+SE-120,SE,Waukesha,Waukesha,SE - Waukesha #970 (2106 S West Ave),Non-Freeway (Non-Tourist),STH 59,Urban,960,"7,7",18,5,23,Yes,0,add,225,226,451,3,3,3,2979,2981,5960
+SE-121,SE,Milwaukee,Oak Creek,SE - Oak Creek #422 (9535 S 13th St),Freeway (Non-Tourist),IH 41/94 & STH 100,Urban,960,"6,5",26,8,34,Yes,2,add,207,217,424,3,3,2,2947,3047,5994
+SW-501,SW,Sauk,Baraboo,SW - Baraboo - Amoco at 33 and 136,Freeway (Tourist),STH 33 & STH 136,Urban,960,"9,3",12,4,16,No,1,std,35,35,70,3,3,3,524,537,1061
+SW-502,SW,Sauk,Baraboo,SW - Baraboo - Caseys on CTH W,Non-Freeway (Tourist),CTH W,Urban,945,"2,5",8,0,8,No,1,std,21,19,40,1,1,1,336,317,653
+SW-503,SW,Jefferson,Fort Atkinson,SW - Fort Atkinson -Caseys,Non-Freeway (Non-Tourist),USH 12,Urban,945,"4,4",8,0,8,No,2,std,28,29,57,2,2,2,484,491,975
+SW-504,SW,La Crosse,La Crosse,SW - La Crosse #750 (4828 Mormon Coulee Rd),Non-Freeway (Non-Tourist),Hwy 14/61,Urban,960,"6,3",16,3,19,Yes,1,std,117,121,238,3,3,2,2043,2032,4075
+SW-505,SW,Green,Brodhead,SW - Brodhead #1021 (2107 1st Center Ave),Non-Freeway (Non-Tourist),STH 11,Rural,960,8,20,3,23,Yes,0,std,127,118,245,3,3,3,1535,1547,3082
+SW-506,SW,Grant,Cuba City,Cuba City - KwikTrip#339 (212 S Main Street),Non-Freeway (Non-Tourist),Main St,Rural,945,4,8,0,8,No,1,std,113,116,229,2,2,2,1313,1338,2651
+SW-507,SW,Dane,Windsor,SW - Windsor/Deforest Speedway,Freeway (Non-Tourist),STH 19 E of IH 39/90,Urban,960,"3,3",12,0,12,No,2,std,37,34,71,1,2,1,762,763,1525
+SW-508,SW,Dane,Belleville,"SW - Casey's Belleville, STH 69",Non-Freeway (Non-Tourist),STH 69,Rural,960,"4,5",10,3,13,No,0,std,65,65,130,2,2,2,687,687,1374
+SW-509,SW,Jefferson,Johnson Creek,SW - Johnson Creek #487 (465 Village Walk Ln),Freeway (Non-Tourist),STH 26 S of IH 94,Rural,960,6,20,0,20,No,2,std,154,142,296,3,3,2,1828,1821,3649
+SW-510,SW,Jefferson,Lake Mills,SW - Lake Mills - #306 (105 W Tyranena Park Rd),Freeway (Non-Tourist),IH 94,Urban,960,"5,8",16,3,19,No,1,std,180,182,362,2,2,2,2222,2241,4463
+SW-511,SW,Sauk,Lake Delton,"SW - Lake Delton - Exxon - Off USH 12 (local streets, shared driveway)",Freeway (Tourist),USH 12,Rural,945,"2,5",8,0,8,No,3,std,16,15,31,1,1,1,,,
+SW-512,SW,Sauk,Lake Delton,SW - Lake Delton/Wisconsin Dells #583 (532 W Munroe Ave),Freeway (Tourist),IH 90,Rural,960,"4,2",8,3,11,No,1,std,155,164,319,2,2,2,2239,2320,4559
+SW-513,SW,Columbia,Portage,SW - Portage BP - STH 33 W of IH 90/94,Freeway (Non-Tourist),STH 33 W of IH 90/94,Rural,945,"1,7",8,0,8,No,0,std,28,24,52,1,1,1,505,531,1036
+SW-514,SW,Vernon,Viroqua,"SW - Viroqua - KwikTrip#758, 603 S. Main St",Non-Freeway (Non-Tourist),USH 14,Rural,945,"2,3",8,0,8,No,1,std,81,85,166,1,1,1,1339,1340,2679
+SW-515,SW,Dodge,Horicon,Horicon - Kwik Trip #782 (716 E Lake Street),Non-Freeway (Non-Tourist),STH 33,Rural,945,"2,6",8,0,8,No,0,std,55,54,109,1,1,1,755,740,1495
+SW-516,SW,Monroe,Tomah,SW - Tomah - Mobil on Gopher Ave,Freeway (Non-Tourist),IH 90 & STH 131,Urban,945,"2,8",8,2,10,No,0,std,15,16,31,1,1,1,254,253,507
+SW-517,SW,Monroe,Sparta,SW - Sparta BP - Travel Center with Scale,Freeway (Non-Tourist),IH 90 & STH 16,Urban,960,"5,9",10,5,15,No,0,std,19,23,42,2,2,2,418,415,833
+SW-518,SW,Vernon,Viroqua,SW - Viroqua #757 (1301 N Main St),Non-Freeway (Non-Tourist),USH 14,Rural,960,"6,4",10,2,12,Yes,0,std,133,132,265,3,3,2,2319,2324,4643
+SW-519,SW,Dane,Madison,SW - Madison #960 (401 N Third St),Non-Freeway (Non-Tourist),STH 113,Urban,960,"7,6",16,4,20,Yes,1,add,163,159,322,3,3,3,2347,2335,4682
+SW-520,SW,Dane,Madison,SW - Madison #961 (3528 E Washington Ave),Non-Freeway (Non-Tourist),USH 151,Urban,960,"5,7",16,0,16,Yes,1,add,99,108,207,2,2,2,1357,1369,2726
+SW-521,SW,Dane,Verona,SW - Verona #1075 (233 Wildcat Way),Freeway (Non-Tourist),Wildcat Way,Urban,960,"10,8",24,0,24,Yes,0,add,139,131,270,3,3,3,1782,1749,3531
+SW-522,SW,Dane,Monona,SW - Monona Speedway (2500 Royal Ave),Freeway (Non-Tourist),USH 12/18,Urban,960,"4,5",10,3,13,No,1,add,51,55,106,2,2,2,785,859,1644
+SW-523,SW,Dane,Middleton,SW - Middleton Mobil (8613 University Green),Non-Freeway (Non-Tourist),USH 14,Urban,960,"4,4",12,3,15,Yes,1,add,56,58,114,2,2,2,863,907,1770
+SW-524,SW,Dane,Madison,SW - Kellys Market (33 Junction Ct),Freeway (Non-Tourist),USH 12/14,Urban,960,"4,5",12,0,12,Yes,0,add,30,30,60,2,2,2,889,896,1785
